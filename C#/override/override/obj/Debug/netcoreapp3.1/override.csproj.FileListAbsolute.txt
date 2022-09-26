@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\override\override\bin\Debug\netcoreapp3.1\override.exe
+C:\Users\ASUS\source\repos\override\override\bin\Debug\netcoreapp3.1\override.deps.json
+C:\Users\ASUS\source\repos\override\override\bin\Debug\netcoreapp3.1\override.runtimeconfig.json
+C:\Users\ASUS\source\repos\override\override\bin\Debug\netcoreapp3.1\override.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\override\override\bin\Debug\netcoreapp3.1\override.dll
+C:\Users\ASUS\source\repos\override\override\bin\Debug\netcoreapp3.1\override.pdb
+C:\Users\ASUS\source\repos\override\override\obj\Debug\netcoreapp3.1\override.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\override\override\obj\Debug\netcoreapp3.1\override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\override\override\obj\Debug\netcoreapp3.1\override.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\override\override\obj\Debug\netcoreapp3.1\override.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\override\override\obj\Debug\netcoreapp3.1\override.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\override\override\obj\Debug\netcoreapp3.1\override.dll
+C:\Users\ASUS\source\repos\override\override\obj\Debug\netcoreapp3.1\override.pdb
+C:\Users\ASUS\source\repos\override\override\obj\Debug\netcoreapp3.1\override.genruntimeconfig.cache

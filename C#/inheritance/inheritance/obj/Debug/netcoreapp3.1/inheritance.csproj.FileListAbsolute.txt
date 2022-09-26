@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.exe
+C:\Users\ASUS\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.deps.json
+C:\Users\ASUS\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.json
+C:\Users\ASUS\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.dll
+C:\Users\ASUS\source\repos\inheritance\inheritance\bin\Debug\netcoreapp3.1\inheritance.pdb
+C:\Users\ASUS\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.dll
+C:\Users\ASUS\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.pdb
+C:\Users\ASUS\source\repos\inheritance\inheritance\obj\Debug\netcoreapp3.1\inheritance.genruntimeconfig.cache

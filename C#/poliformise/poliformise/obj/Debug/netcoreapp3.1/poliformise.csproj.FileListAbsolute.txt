@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\poliformise\poliformise\bin\Debug\netcoreapp3.1\poliformise.exe
+C:\Users\ASUS\source\repos\poliformise\poliformise\bin\Debug\netcoreapp3.1\poliformise.deps.json
+C:\Users\ASUS\source\repos\poliformise\poliformise\bin\Debug\netcoreapp3.1\poliformise.runtimeconfig.json
+C:\Users\ASUS\source\repos\poliformise\poliformise\bin\Debug\netcoreapp3.1\poliformise.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\poliformise\poliformise\bin\Debug\netcoreapp3.1\poliformise.dll
+C:\Users\ASUS\source\repos\poliformise\poliformise\bin\Debug\netcoreapp3.1\poliformise.pdb
+C:\Users\ASUS\source\repos\poliformise\poliformise\obj\Debug\netcoreapp3.1\poliformise.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\poliformise\poliformise\obj\Debug\netcoreapp3.1\poliformise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\poliformise\poliformise\obj\Debug\netcoreapp3.1\poliformise.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\poliformise\poliformise\obj\Debug\netcoreapp3.1\poliformise.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\poliformise\poliformise\obj\Debug\netcoreapp3.1\poliformise.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\poliformise\poliformise\obj\Debug\netcoreapp3.1\poliformise.dll
+C:\Users\ASUS\source\repos\poliformise\poliformise\obj\Debug\netcoreapp3.1\poliformise.pdb
+C:\Users\ASUS\source\repos\poliformise\poliformise\obj\Debug\netcoreapp3.1\poliformise.genruntimeconfig.cache
